@@ -1,4 +1,4 @@
-# Galya
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,15 +15,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: Владею навыками: HTML5 + CSS3, включая семантическую, кроссбраузерную и адаптивную верстку, Flex и Grid, БЭМ, препроцессоры, Bootstrap, командная работа через GitHub.
+Основы программирования на JavaScript, Vanilla JS, ES6+, webpack, npm, обучение Фреймворка React.
+Программы: Visual Studio Code, Figma, Trello, Slack.
+.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling:  Были написаны проекты:
+В первом проекте моей задачей было написать блок галлерея :
+https://github.com/itgirlschool/f4_team3_project1
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  Во втором проекте, блок "Новости", с ссылкой на соц сеть. Этот проект был написан с реальными заказчиками. 
+  https://долинамудрости.рф/
+
+  В третьем проекте была поставлена задача написать весь визуальный интерфейс. 
+  https://github.com/galya-cmd/HarryPotterProject.
+- :zap: Также дополнительно успешно прошла обучение по программе Java Script. 
+        Сейчас заканчиваю обучение React..
+
+- :mailbox:How to reach me: galya1985@bk.ru
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,5 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ 
+  </div>
 
