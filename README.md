@@ -13,10 +13,10 @@
 <img src="https://komarev.com/ghpvc/?username=galya-cmd&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне :
 
 Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: Владею навыками: HTML5 + CSS3, включая семантическую, кроссбраузерную и адаптивную верстку, Flex и Grid, БЭМ, препроцессоры, Bootstrap, командная работа через GitHub.
