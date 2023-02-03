@@ -35,13 +35,14 @@ https://github.com/itgirlschool/f4_team3_project1
   
   https://github.com/galya-cmd/HarryPotterProject.
   
-  Коммерческий проек. Стек технологий React, React-Router.
   
-  https://github.com/galya-cmd/Barcode-Ink
-  
-  Pet-project: Desctop HTML, CSS.
+  Pet-project: Desctop Стек технологий HTML, CSS.
   
   https://galya-cmd.github.io/VeganHoReCA/
+  
+  Pet-project: Стек React, Node js.
+  
+  https://github.com/galya-cmd/welbex
   
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
        
