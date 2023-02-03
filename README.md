@@ -22,8 +22,8 @@
 
 Мне нравится писать код с ноля, планировать у улучшать сайты. 
 
-Язык программирования : React, JavaScript, Node js, HTML5, CSS3.
-- :telescope: Инструменты:  Visual Studio Code, Figma, Trello, Slack, GitHub, Bootstrap.
+Язык программирования : React, JavaScript, HTML5, CSS3.
+- :telescope: Инструменты:  Visual Studio Code, Node js, Figma, Trello, Slack, GitHub, Bootstrap.
 
 - :seedling:  Были написаны проекты:
 В первом проекте моя задача написать галлерею :
