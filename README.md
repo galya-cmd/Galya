@@ -26,7 +26,7 @@
 - :telescope: Инструменты:  Visual Studio Code, Figma, Trello, Slack, GitHub, Bootstrap.
 
 - :seedling:  Были написаны проекты:
-В первом проекте моей задачей было написать блок галлерея :
+В первом проекте моя задача написать галлерею :
 https://github.com/itgirlschool/f4_team3_project1
 
   Коммерческий проект. Задача написать сайт для пожилых людей.  
