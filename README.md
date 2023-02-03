@@ -19,10 +19,11 @@
 ### :woman_technologist: Обо мне :
 
 Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Владею навыками: HTML5 + CSS3, включая семантическую, кроссбраузерную и адаптивную верстку, Flex и Grid, БЭМ, препроцессоры, Bootstrap, командная работа через GitHub.
-Основы программирования на JavaScript, Vanilla JS, ES6+, webpack, npm, обучение Фреймворка React.
-Программы: Visual Studio Code, Figma, Trello, Slack.
-.
+
+Мне нравится писать код с ноля, планировать у улучшать сайты. 
+
+Язык программирования : React, JavaScript, Node js, HTML5, CSS3.
+- :telescope: Инструменты:  Visual Studio Code, Figma, Trello, Slack, GitHub, Bootstrap.
 
 - :seedling:  Были написаны проекты:
 В первом проекте моей задачей было написать блок галлерея :
