@@ -41,7 +41,7 @@ https://github.com/itgirlschool/f4_team3_project1
   
   Pet-project: Desctop HTML, CSS.
   
-  galya-cmd.github.io/VeganHoReCA/
+  https://galya-cmd.github.io/VeganHoReCA/
   
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
        
