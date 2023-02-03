@@ -44,6 +44,10 @@ https://github.com/itgirlschool/f4_team3_project1
   
   https://github.com/galya-cmd/welbex
   
+  Pet-project: Стек технологий HTML, CSS.
+  
+  https://galya-cmd.github.io/Resume/
+  
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
        
 
