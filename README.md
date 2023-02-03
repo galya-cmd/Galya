@@ -39,8 +39,12 @@ https://github.com/itgirlschool/f4_team3_project1
   
   https://github.com/galya-cmd/Barcode-Ink
   
-- :zap: Также дополнительно успешно прошла обучение по программе Java Script. 
-        Сейчас заканчиваю обучение React..
+  Pet-project: Desctop HTML, CSS.
+  
+  galya-cmd.github.io/VeganHoReCA/
+  
+- :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
+       
 
 - :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galya-salykina-a2a96b232/)
 - :envelope:galya1985@bk.ru
