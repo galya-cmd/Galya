@@ -18,9 +18,9 @@
 
 ### :woman_technologist: Обо мне :
 
-Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-Я создаю адаптивные веб-сайты. Мне нравится писать код с ноля, планировать у улучшать его. 
+Cоздаю адаптивные веб-сайты. Мне нравится писать код с ноля, планировать у улучшать его. 
 
 Язык программирования : React, JavaScript, HTML5, CSS3.
 - :telescope: Инструменты:  Visual Studio Code, Node js, Figma, Trello, Slack, GitHub, Bootstrap.
