@@ -42,8 +42,8 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
   Разработка сайта Гарри Поттер.
   Верстка главной страницы, по макету Figma (адаптивная, кроссбраузерная верстка)
   Команда из 3 человек.
-  HTML5, CSS3, JavaScript, GitHub, Figma...
-  https://github.com/galya-cmd/HarryPotterProject.
+  HTML5, CSS3, JavaScript, GitHub, Figma...  
+    https://github.com/galya-cmd/HarryPotterProject.
   
   
   Pet-project: Desctop
