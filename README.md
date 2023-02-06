@@ -42,16 +42,15 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
   Разработка сайта Гарри Поттер.
   Верстка главной страницы, по макету Figma (адаптивная, кроссбраузерная верстка)
   Команда из 3 человек.
-  HTML5, CSS3, JavaScript, GitHub, Figma.
+  HTML5, CSS3, JavaScript, GitHub, Figma...
   https://github.com/galya-cmd/HarryPotterProject.
   
   
   Pet-project: Desctop
   HTML, CSS.
-  
   https://galya-cmd.github.io/VeganHoReCA/
   
-  Pet-project: Стек
+  Pet-project:
   React, Node js
   https://github.com/galya-cmd/welbex
   
@@ -60,7 +59,6 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
   https://galya-cmd.github.io/Resume/
 
   Pet-project: React, node js.
-  
   https://github.com/galya-cmd/welbex
   
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
