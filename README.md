@@ -47,18 +47,18 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
   
   
   Pet-project: Desctop
-  HTML, CSS.
-  https://galya-cmd.github.io/VeganHoReCA/
+  HTML, CSS.  
+    https://galya-cmd.github.io/VeganHoReCA/
   
   Pet-project:
-  React, Node js
+  React, Node js. 
   https://github.com/galya-cmd/welbex
   
   Pet-project: 
-  HTML, CSS.
+  HTML, CSS.  
   https://galya-cmd.github.io/Resume/
 
-  Pet-project: React, node js.
+  Pet-project: React, node js.  
   https://github.com/galya-cmd/welbex
   
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
