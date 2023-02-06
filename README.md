@@ -58,8 +58,6 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
   HTML, CSS.  
   https://galya-cmd.github.io/Resume/
 
-  Pet-project: React, node js.  
-  https://github.com/galya-cmd/welbex
   
 - :zap: Также дополнительно успешно прошла обучение по программе Java Script , React js.
        
