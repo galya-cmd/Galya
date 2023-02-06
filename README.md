@@ -51,8 +51,8 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
     https://galya-cmd.github.io/VeganHoReCA/
   
   Pet-project:
-  React, Node js. 
-  https://github.com/galya-cmd/welbex
+  React, Node js.  
+   https://github.com/galya-cmd/welbex
   
   Pet-project: 
   HTML, CSS.  
