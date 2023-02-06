@@ -27,28 +27,36 @@ Cоздаю адаптивные веб-сайты. Мне нравится пи
 
 - :seedling:  Были написаны проекты:
 - 
-  В первом проекте моя задача написать галлерею :
-  
+  Сайт для архитектурной компании.
+  Сверстала страницу галерея, по макету Figma (адаптивная кроссбраузерная верстка)
+  Работа в команде из 3 человек. 
+  HTML5, CSS3, GitHub, Figma, Trello.
   https://github.com/itgirlschool/f4_team3_project1
 
-  Коммерческий проект. Задача написать сайт для пожилых людей.  
+  Сайт для пожилых людей.
+  Верстала блок новостей, с ссылками на личные страницы, придумала дизайн.
+  Команда из 4 человек.
+  HTML5, CSS3,GitHub..  
   https://долинамудрости.рф/
 
-  В третьем проекте была поставлена задача написать весь визуальный интерфейс.
-  
+  Разработка сайта Гарри Поттер.
+  Верстка главной страницы, по макету Figma (адаптивная, кроссбраузерная верстка)
+  Команда из 3 человек.
+  HTML5, CSS3, JavaScript, GitHub, Figma.
   https://github.com/galya-cmd/HarryPotterProject.
   
   
-  Pet-project: Desctop Стек технологий HTML, CSS.
+  Pet-project: Desctop
+  HTML, CSS.
   
   https://galya-cmd.github.io/VeganHoReCA/
   
-  Pet-project: Стек React, Node js.
-  
+  Pet-project: Стек
+  React, Node js
   https://github.com/galya-cmd/welbex
   
-  Pet-project: Стек технологий HTML, CSS.
-  
+  Pet-project: 
+  HTML, CSS.
   https://galya-cmd.github.io/Resume/
 
   Pet-project: React, node js.
